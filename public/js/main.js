@@ -1,3 +1,4 @@
+var client-sessions = require("client-sessions")
 angular.module('app', [])
 
 angular.module('app')
